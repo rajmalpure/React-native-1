@@ -18,6 +18,8 @@ A beautiful, modern Todo application built with React Native and Expo. Stay orga
 
 **📊 Project Dashboard:** [View on EAS Dashboard](https://expo.dev/accounts/rajmalpure/projects/MyTodoApp/updates/00e3d6f4-b761-4219-a6f1-dfc1d45609b7)
 
+**🔗 Live on browser:** [Live](https://my-todo-7hfwxh3lf-rajs-projects-02a1ec89.vercel.app/)
+
 ---
 
 ## 📱 Screenshots
@@ -121,19 +123,6 @@ eas update:configure
 eas update --branch production --message "My Todo App"
 ```
 
-### Build for App Stores
-```bash
-# Build for Android (Google Play Store)
-eas build --platform android
-
-# Build for iOS (Apple App Store)
-eas build --platform ios
-
-# Build for both platforms
-eas build --platform all
-```
-
----
 
 ## 📖 How to Use
 
@@ -151,24 +140,6 @@ eas build --platform all
 ### Bulk Actions
 - **Clear Completed:** Use the red button to remove all completed tasks
 - **Track Progress:** Monitor your productivity with real-time statistics
-
----
-
-## 🏗️ Project Structure
-
-```
-MyTodoApp/
-├── App.js                 # Main app component
-├── app.json              # Expo configuration
-├── package.json          # Dependencies and scripts
-├── babel.config.js       # Babel configuration
-├── metro.config.js       # Metro bundler configuration
-├── eas.json             # EAS configuration
-└── assets/              # App icons and splash screens
-    ├── icon.png
-    ├── splash.png
-    └── adaptive-icon.png
-```
 
 ---
 
