@@ -27,6 +27,8 @@ A beautiful, modern Todo application built with React Native and Expo. Stay orga
 | Home Screen | Add Tasks | Task Management |
 |-------------|-----------|-----------------|
 | 📋 Clean interface | ➕ Easy task creation | ✅ Mark complete & delete |
+![WhatsApp Image 2025-07-19 at 16 38 29_b8f6beb8](https://github.com/user-attachments/assets/93518d80-d9e8-4756-aaee-d4b0b1572efe)
+
 
 ## ✨ Features
 
